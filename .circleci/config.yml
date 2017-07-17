@@ -5,4 +5,4 @@ jobs:
        - image: circleci/<java>:<openjdk>
      steps:
        - checkout
-       - run: build
+       - run: podam
