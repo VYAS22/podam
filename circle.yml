@@ -6,8 +6,9 @@ machine:
     India/Kolkata # Set the timezone
 
   # Version of ruby to use
-  java:
-    version: openjdk7
+  ruby:
+    version:
+      1.8.7-p358-falcon-perf 
 
   # Override /etc/hosts
   hosts:
