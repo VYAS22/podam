@@ -2,7 +2,7 @@ version: 2
 jobs:
    build:
      docker:
-       - image: circleci/<java>:<openjdk>
+       - image: circleci/java:openjdk
      steps:
        - checkout
        - run: podam
