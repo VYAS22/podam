@@ -13,7 +13,7 @@ machine:
   # Override /etc/hosts
   hosts:
     circlehost: 127.0.0.1
-    dev.mycompany.com: 127.0.0.1
+    dev.circlrci.com: 127.0.0.1
 
   # Add some environment variables
   environment:
