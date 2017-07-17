@@ -1,1 +1,2 @@
 gem 'rspec_junit_formatter'
+gem 'store_test_results'
